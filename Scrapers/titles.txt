@@ -1,334 +1,100 @@
-Jaws (1975)
-One Flew Over the Cuckoo's Nest (1975)
-The Rocky Horror Picture Show (1975)
-Dog Day Afternoon (1975)
-Monty Python and the Holy Grail (1975)
-Rollerball (1975)
-Rocky (1976)
-Carrie (1976)
-Taxi Driver (1976)
-The Bad News Bears (1976)
-Annie Hall (1977)
-Star Wars (1977)
-Eraserhead (1977)
-Saturday Night Fever (1977)
-Smokey and the Bandit (1977)
-Close Encounters of the Third Kind (1977)
-Superman (1978)
-Halloween (1978)
-Grease (1978)
-Animal House (1978)
-Dawn of the Dead (1978)
-The Deer Hunter (1978)
-Up in Smoke (1978)
-Apocalypse Now (1979)
-Alien (1979)
-The Muppet Movie (1979)
-The Warriors (1979)
-Kramer Vs. Kramer (1979)
-Mad Max (1979)
-Manhattan (1979)
-The Empire Strikes Back (1980)
-The Shining (1980)
-Airplane! (1980)
-The Elephant Man (1980)
-Raging Bull (1980)
-The Blues Brothers (1980)
-Chariots of Fire (1981)
-The Evil Dead (1981)
-Arthur (1981)
-Escape From New York (1981)
-E.T. the Extra-Terrestrial (1982)
-Blade Runner (1982)
-Poltergeist (1982)
-Star Trek II: The Wrath of Khan (1982)
-The Thing (1982)
-48 Hrs. (1982)
-Tootsie (1982)
-Fast Times at Ridgemont High (1982)
-First Blood (1982)
-Scarface (1983)
-Return of the Jedi (1983)
-Trading Places (1983)
-Terms of Endearment (1983)
-A Christmas Story (1983)
-Flashdance (1983)
-National Lampoon's Vacation (1983)
-Ghostbusters (1984)
-Gremlins (1984)
-Beverly Hills Cop (1984)
-The Terminator (1984)
-A Nightmare on Elm Street (1984)
-Amadeus (1984)
-Red Dawn (1984)
-Sixteen Candles (1984)
-The Karate Kid (1984)
-Purple Rain (1984)
-Back to the Future (1985)
-The Breakfast Club (1985)
-The Goonies (1985)
-The Color Purple (1985)
-Commando (1985)
-Cocoon (1985)
-Platoon (1986)
-Ferris Bueller's Day Off (1986)
-Crocodile Dundee (1986)
-Labyrinth (1986)
-The Fly (1986)
-Predator (1987)
-Full Metal Jacket (1987)
-The Princess Bride (1987)
-The Lost Boys (1987) (1987)
-Hellraiser (1987)
-Lethal Weapon (1987)
-Dirty Dancing (1987)
-Good Morning, Vietnam (1987)
-Robocop (1987)
-Three Men and a Baby (1987)
-Adventures in Babysitting (1987)
-Raising Arizona (1987)
-Die Hard (1988)
-Beetlejuice (1988)
-Rain Man (1988)
-Who Framed Roger Rabbit (1988)
-Child's Play (1988)
-Coming to America (1988)
-Big (1988)
-Dead Poets Society (1989)
-The Little Mermaid (1989)
-Batman (1989)
-Bill & Ted's Excellent Adventure (1989)
-The Abyss (1989)
-Honey, I Shrunk the Kids (1989)
-Do the Right Thing (1989)
-When Harry Met Sally... (1989)
-Say Anything... (1989)
-Goodfellas (1990)
-Home Alone (1990)
-Edward Scissorhands (1990)
-Terminator 2: Judgment Day (1991)
-The Silence of the Lambs (1991)
-Beauty and the Beast (1991)
-Cape Fear (1991)
-Boyz N the Hood (1991)
-Thelma & Louise (1991)
-Point Break (1991)
-JFK (1991)
-Aladdin (1992)
-A Few Good Men (1992)
-Unforgiven (1992)
-A League of Their Own (1992)
-Reservoir Dogs (1992)
-Basic Instinct (1992)
-Wayne's World (1992)
-Buffy the Vampire Slayer (1992)
-Jurassic Park (1993)
-Schindler's List (1993)
-The Fugitive (1993)
-Sleepless in Seattle (1993)
-Groundhog Day (1993)
-The Nightmare Before Christmas (1993)
-The Sandlot (1993)
-Mrs. Doubtfire (1993)
-Dazed and Confused (1993)
-Pulp Fiction (1994)
-Forrest Gump (1994)
-The Shawshank Redemption (1994)
-True Lies (1994)
-The Lion King (1994)
-Dumb and Dumber (1994)
-The Crow (1994)
-The Mask (1994)
-Hoop Dreams (1994)
-Ed Wood (1994)
-Toy Story (1995)
-Clueless (1995)
-The Usual Suspects (1995)
-Bad Boys (1995)
-Friday (1995)
-Jerry Maguire (1996)
-Independence Day (1996)
-Mission: Impossible (1996)
-Scream (1996)
-Twister (1996)
-Space Jam (1996)
-Fargo (1996)
-The Rock (1996)
-Trainspotting (1996)
-Face/Off (1997)
-Titanic (1997)
-Men in Black (1997)
-Good Will Hunting (1997)
-Austin Powers: International Man of Mystery (1997)
-Saving Private Ryan (1998)
-The Truman Show (1998)
-The Big Lebowski (1998)
-Armageddon (1998)
-Dark City (1998)
-A Bug's Life (1998)
-There's Something About Mary (1998)
-Mulan (1998)
-Rushmore (1998)
-Pi (1998)
-Rush Hour (1998)
-The Matrix (1999)
-Fight Club (1999)
-The Sixth Sense (1999)
-Being John Malkovich (1999)
-The Blair Witch Project (1999)
-Toy Story 2 (1999)
-American Beauty (1999)
-Almost Famous (2000)
-Scary Movie (2000)
-Requiem for a Dream (2000)
-Cast Away (2000)
-Memento (2000)
-Crouching Tiger, Hidden Dragon (2000)
-X-Men (2000)
-Chicken Run (2000)
-Donnie Darko (2001)
-Shrek (2001)
-The Others (2001)
-Amélie (2001)
-Training Day (2001)
-Monsters, Inc. (2001)
-The Lord of the Rings: The Fellowship of the Ring (2001)
-The Fast and the Furious (2001)
-Harry Potter and the Philosopher's Stone (2001)
-Wet Hot American Summer (2001)
-Minority Report (2002)
-Spider-Man (2002)
-The Lord of the Rings: The Two Towers (2002)
-Chicago (2002)
-Catch Me If You Can (2002)
-The Bourne Identity (2002)
-Gangs of New York (2002)
-8 Mile (2002)
-The Pianist (2002)
-Finding Nemo (2003)
-The Lord of the Rings: The Return of the King (2003)
-Lost in Translation (2003)
-Mystic River (2003)
-Kill Bill: Vol. 1 (2003)
-The Room (2003)
-Pirates of the Caribbean: The Curse of the Black Pearl (2003)
-Eternal Sunshine of the Spotless Mind (2004)
-Spider-Man 2 (2004)
-Mean Girls (2004)
-The Incredibles (2004)
-Shaun of the Dead (2004)
-Anchorman: The Legend of Ron Burgundy (2004)
-Napoleon Dynamite (2004)
-Batman Begins (2005)
-King Kong (2005)
-War of the Worlds (2005)
-Brokeback Mountain (2005)
-Walk the Line (2005)
-Sin City (2005)
-Pride & Prejudice (2005)
-Children of Men (2006)
-The Departed (2006)
-Casino Royale (2006)
-The Prestige (2006)
-Pan's Labyrinth (2006)
-Superman Returns (2006)
-Little Miss Sunshine (2006)
-Cars (2006)
-Apocalypto (2006)
-No Country for Old Men (2007)
-There Will Be Blood (2007)
-Transformers (2007)
-I Am Legend (2007)
-Superbad (2007)
-Juno (2007)
-Ratatouille (2007)
-Grindhouse (2007)
-The Dark Knight (2008)
-WALL·E (2008)
-Slumdog Millionaire (2008)
-Iron Man (2008)
-Tropic Thunder (2008)
-Twilight (2008)
-Kung Fu Panda (2008)
-Star Trek (2009)
-The Hangover (2009)
-District 9 (2009)
-Watchmen (2009)
-The Blind Side (2009)
-Coraline (2009)
-Inception (2010)
-Toy Story 3 (2010)
-Black Swan (2010)
-Shutter Island (2010)
-The Social Network (2010)
-127 Hours (2010)
-How to Train Your Dragon (2010)
-Scott Pilgrim Vs. the World (2010)
-True Grit (2010)
-Tangled (2010)
-The Help (2011)
-Harry Potter and the Deathly Hallows: Part 2 (2011)
-Bridesmaids (2011)
-Midnight in Paris (2011)
-Moneyball (2011)
-X-Men: First Class (2011)
-The Artist (2011)
-Rango (2011)
-Drive (2011)
-Super 8 (2011)
-Django Unchained (2012)
-Skyfall (2012)
-Looper (2012)
-The Avengers (2012)
-Argo (2012)
-Zero Dark Thirty (2012)
-Life of Pi (2012)
-The Hunger Games (2012)
-Les Misérables (2012)
-Gravity (2013)
-American Hustle (2013)
-Frozen (2013)
-Blue Is the Warmest Color (2013)
-Gone Girl (2014)
-The Lego Movie (2014)
-Interstellar (2014)
-Guardians of the Galaxy (2014)
-Boyhood (2014)
-Nightcrawler (2014)
-The Fault in Our Stars (2014)
-Edge of Tomorrow (2014)
-The Grand Budapest Hotel (2014)
-Whiplash (2014)
-Birdman (2014)
-The Babadook (2014)
-John Wick (2014)
-Mad Max: Fury Road (2015)
-The Revenant (2015)
-Inside Out (2015)
-Star Wars: The Force Awakens (2015)
-The Martian (2015)
-The Big Short (2015)
-Sicario (2015)
-Bridge of Spies (2015)
-The Hateful Eight (2015)
-Spotlight (2015)
-Straight Outta Compton (2015)
-La La Land (2016)
-Arrival (2016)
-Moonlight (2016)
-Manchester by the Sea (2016)
-Zootopia (2016)
-Deadpool (2016)
-Rogue One: A Star Wars Story (2016)
-Finding Dory (2016)
-Hacksaw Ridge (2016)
-Logan (2017)
-Dunkirk (2017)
-Baby Driver (2017)
-Wonder Woman (2017)
-The Dark Tower (2017)
-Star Wars: The Last Jedi (2017)
-Valerian and the City of a Thousand Planets (2017)
-Baywatch (2017)
-Spider-Man: Homecoming (2017)
-Blade Runner 2049 (2017)
+127 Hours
+48 Hrs.
+A Few Good Men
+Aladdin
+Alien
+Almost Famous
+Amadeus
+American Beauty
+American Hustle
+Annie Hall
+Apocalypse Now
+Argo
+Armageddon
+Bad Boys
+Basic Instinct
+Batman
+Beauty and the Beast
+Being John Malkovich
+Bridesmaids
+Carrie
+Cast Away
+Catch Me If You Can
+Clueless
+Commando
+Coraline
+Crouching Tiger, Hidden Dragon
+Dark City
+Dawn of the Dead
+Dead Poets Society
+Deadpool
+Die Hard
+Django Unchained
+Dog Day Afternoon
+Drive
+Dumb and Dumber
+Edward Scissorhands
+Escape From New York
+Eternal Sunshine of the Spotless Mind
+Fargo
+Ferris Bueller's Day Off
+Fight Club
+Finding Nemo
+Forrest Gump
+Frozen
+Gangs of New York
+Ghostbusters
+Good Will Hunting
+Gravity
+Gremlins
+Groundhog Day
+How to Train Your Dragon
+Inception
+Independence Day
+Interstellar
+Jaws
+JFK
+John Wick
+Juno
+Jurassic Park
+Kung Fu Panda
+La La Land
+Life of Pi
+Lost in Translation
+Memento
+Men in Black
+Midnight in Paris
+Moneyball
+Mulan
+One Flew Over the Cuckoo's Nest
+Point Break
+Predator
+Pulp Fiction
+Purple Rain
+Raging Bull
+Reservoir Dogs
+Rocky
+Rush Hour
+Schindler's List
+Shrek
+Sicario
+Sleepless in Seattle
+Slumdog Millionaire
+Spider-Man
+Star Trek
+Star Wars: A New Hope
+Star Wars: The Force Awakens
+Straight Outta Compton
+Super 8
+Taxi Driver
+Thelma & Louise
+Three Men and a Baby
+Toy Story
+Training Day
+Trainspotting
+True Lies
+Twilight
+War of the Worlds
+Watchmen
+X-Men
+Zero Dark Thirty
