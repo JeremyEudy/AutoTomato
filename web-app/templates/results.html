@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+	<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+        <script type=text/javascript src="{{url_for('static', filename='jquery.js') }}"></script>
+        <script type=text/javascript src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.8.9/jquery.csv.js"></script>
+        <script type=text/javascript>
+            function myFunction(){
+                $.ajax({
+                    type:    "GET",
+                    url:     "http://34.73.88.54/instance",
+                    success: function(text) {
+                        var table = $.csv.toArrays(text);
+			for(i in table){
+			    var ele = document.createElement("P");
+			    ele.innerHTML = table[i];
+			    document.body.appendChild(ele);
+			}	   
+                    },
+                });
+            }
+        </script>
+
+    </head>
+    <body onload="myFunction()">
+        <center>
+        <img src="/static/Logo.png" alt="Auto Logo" height=150px width=467px>
+        <p></p>
+        <h3 id="title"></h3>
+	</center>
+    <center>
+    </body>
+</HTML>
